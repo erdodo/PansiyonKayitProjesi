@@ -1,0 +1,70 @@
+C:\Users\Erdogan\source\repos\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\obj\Debug\PansiyonKayitUygulamasi.csprojAssemblyReference.cache
+C:\Users\Erdogan\source\repos\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\obj\Debug\PansiyonKayitUygulamasi.GirisPaneli.resources
+C:\Users\Erdogan\source\repos\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\obj\Debug\PansiyonKayitUygulamasi.Properties.Resources.resources
+C:\Users\Erdogan\source\repos\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\obj\Debug\PansiyonKayitUygulamasi.YeniMusteri.resources
+C:\Users\Erdogan\source\repos\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\obj\Debug\PansiyonKayitUygulamasi.csproj.GenerateResource.cache
+C:\Users\Erdogan\source\repos\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\obj\Debug\PansiyonKayitUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Erdogan\source\repos\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\bin\Debug\PansiyonKayitUygulamasi.exe.config
+C:\Users\Erdogan\source\repos\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\bin\Debug\PansiyonKayitUygulamasi.exe
+C:\Users\Erdogan\source\repos\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\bin\Debug\PansiyonKayitUygulamasi.pdb
+C:\Users\Erdogan\source\repos\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\obj\Debug\PansiyonKayitUygulamasi.exe
+C:\Users\Erdogan\source\repos\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\obj\Debug\PansiyonKayitUygulamasi.pdb
+C:\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\bin\Debug\PansiyonKayitUygulamasi.exe.config
+C:\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\bin\Debug\PansiyonKayitUygulamasi.exe.manifest
+C:\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\bin\Debug\PansiyonKayitUygulamasi.application
+C:\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\bin\Debug\PansiyonKayitUygulamasi.exe
+C:\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\bin\Debug\PansiyonKayitUygulamasi.pdb
+C:\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\obj\Debug\PansiyonKayitUygulamasi.csprojAssemblyReference.cache
+C:\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\obj\Debug\PansiyonKayitUygulamasi.GirisPaneli.resources
+C:\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\obj\Debug\PansiyonKayitUygulamasi.Properties.Resources.resources
+C:\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\obj\Debug\PansiyonKayitUygulamasi.YeniMusteri.resources
+C:\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\obj\Debug\PansiyonKayitUygulamasi.csproj.GenerateResource.cache
+C:\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\obj\Debug\PansiyonKayitUygulamasi.csproj.CoreCompileInputs.cache
+C:\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\obj\Debug\PansiyonKayitUygulamasi.exe.manifest
+C:\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\obj\Debug\PansiyonKayitUygulamasi.application
+C:\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\obj\Debug\PansiyonKayitUygulamasi.exe
+C:\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\obj\Debug\PansiyonKayitUygulamasi.pdb
+C:\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\bin\Debug\Pansiyon.mdb
+C:\Users\Erdogan\Desktop\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\bin\Debug\Pansiyon.mdb
+C:\Users\Erdogan\Desktop\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\bin\Debug\PansiyonKayitUygulamasi.exe.config
+C:\Users\Erdogan\Desktop\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\bin\Debug\PansiyonKayitUygulamasi.exe.manifest
+C:\Users\Erdogan\Desktop\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\bin\Debug\PansiyonKayitUygulamasi.application
+C:\Users\Erdogan\Desktop\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\bin\Debug\PansiyonKayitUygulamasi.exe
+C:\Users\Erdogan\Desktop\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\bin\Debug\PansiyonKayitUygulamasi.pdb
+C:\Users\Erdogan\Desktop\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\obj\Debug\PansiyonKayitUygulamasi.csprojAssemblyReference.cache
+C:\Users\Erdogan\Desktop\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\obj\Debug\PansiyonKayitUygulamasi.GirisPaneli.resources
+C:\Users\Erdogan\Desktop\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\obj\Debug\PansiyonKayitUygulamasi.Properties.Resources.resources
+C:\Users\Erdogan\Desktop\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\obj\Debug\PansiyonKayitUygulamasi.YeniMusteri.resources
+C:\Users\Erdogan\Desktop\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\obj\Debug\PansiyonKayitUygulamasi.csproj.GenerateResource.cache
+C:\Users\Erdogan\Desktop\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\obj\Debug\PansiyonKayitUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Erdogan\Desktop\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\obj\Debug\PansiyonKayitUygulamasi.exe.manifest
+C:\Users\Erdogan\Desktop\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\obj\Debug\PansiyonKayitUygulamasi.application
+C:\Users\Erdogan\Desktop\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\obj\Debug\PansiyonKayitUygulamasi.exe
+C:\Users\Erdogan\Desktop\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\obj\Debug\PansiyonKayitUygulamasi.pdb
+D:\Ders Programı\S1-D7-C#FORM\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\bin\Debug\PansiyonKayitUygulamasi.exe.config
+D:\Ders Programı\S1-D7-C#FORM\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\obj\Debug\PansiyonKayitUygulamasi.exe
+D:\Ders Programı\S1-D7-C#FORM\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\obj\Debug\PansiyonKayitUygulamasi.pdb
+D:\Ders Programı\S1-D7-C#FORM\Pansiyon-Kayit-Uygulamasi\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\bin\Debug\PansiyonKayitUygulamasi.exe.config
+D:\Ders Programı\S1-D7-C#FORM\Pansiyon-Kayit-Uygulamasi\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\obj\Debug\PansiyonKayitUygulamasi.exe
+D:\Ders Programı\S1-D7-C#FORM\Pansiyon-Kayit-Uygulamasi\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\obj\Debug\PansiyonKayitUygulamasi.pdb
+D:\Ders Programı\S1-D7-C#FORM\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\obj\Debug\PansiyonKayitUygulamasi.csprojResolveAssemblyReference.cache
+D:\Ders Programı\S1-D7-C#FORM\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\obj\Debug\PansiyonKayitUygulamasi.GirisPaneli.resources
+D:\Ders Programı\S1-D7-C#FORM\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\obj\Debug\PansiyonKayitUygulamasi.Properties.Resources.resources
+D:\Ders Programı\S1-D7-C#FORM\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\obj\Debug\PansiyonKayitUygulamasi.YeniMusteri.resources
+D:\Ders Programı\S1-D7-C#FORM\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\obj\Debug\PansiyonKayitUygulamasi.csproj.GenerateResource.Cache
+D:\Ders Programı\S1-D7-C#FORM\Csharp_Programs\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\bin\Debug\PansiyonKayitUygulamasi.exe.config
+D:\Ders Programı\S1-D7-C#FORM\Csharp_Programs\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\obj\Debug\PansiyonKayitUygulamasi.exe
+D:\Ders Programı\S1-D7-C#FORM\Csharp_Programs\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\obj\Debug\PansiyonKayitUygulamasi.pdb
+D:\Ders Programı\S1-D7-C#FORM\Csharp_Programs\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\obj\Debug\PansiyonKayitUygulamasi.csprojResolveAssemblyReference.cache
+D:\Ders Programı\S1-D7-C#FORM\Csharp_Programs\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\obj\Debug\PansiyonKayitUygulamasi.GirisPaneli.resources
+D:\Ders Programı\S1-D7-C#FORM\Csharp_Programs\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\obj\Debug\PansiyonKayitUygulamasi.Properties.Resources.resources
+D:\Ders Programı\S1-D7-C#FORM\Csharp_Programs\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\obj\Debug\PansiyonKayitUygulamasi.YeniMusteri.resources
+D:\Ders Programı\S1-D7-C#FORM\Csharp_Programs\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\obj\Debug\PansiyonKayitUygulamasi.csproj.GenerateResource.Cache
+D:\Ders Programı\S1-D7-C#FORM\Csharp_Programs\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\bin\Debug\Pansiyon.mdb
+D:\Ders Programı\S1-D7-C#FORM\Csharp_Programs\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\bin\Debug\PansiyonKayitUygulamasi.exe.manifest
+D:\Ders Programı\S1-D7-C#FORM\Csharp_Programs\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\bin\Debug\PansiyonKayitUygulamasi.application
+D:\Ders Programı\S1-D7-C#FORM\Csharp_Programs\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\bin\Debug\PansiyonKayitUygulamasi.exe
+D:\Ders Programı\S1-D7-C#FORM\Csharp_Programs\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\bin\Debug\PansiyonKayitUygulamasi.pdb
+D:\Ders Programı\S1-D7-C#FORM\Csharp_Programs\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\obj\Debug\PansiyonKayitUygulamasi.TrustInfo.xml
+D:\Ders Programı\S1-D7-C#FORM\Csharp_Programs\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\obj\Debug\PansiyonKayitUygulamasi.exe.manifest
+D:\Ders Programı\S1-D7-C#FORM\Csharp_Programs\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\obj\Debug\PansiyonKayitUygulamasi.application
